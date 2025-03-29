@@ -11,6 +11,6 @@ Computer Engineering student seeking a part-time Junior Software Developer or So
 <!--![](https://github-readme-stats.vercel.app/api?username=webbacillus&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
 <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=webbacillus&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=webbacillus&theme=moonlight) 
-# 📚 Leetcode Stats:
+# 📚 LeetCode Stats:
 ![](https://leetcard.jacoblin.cool/webbalaka?ext=heatmap&theme=catppuccinMocha&font=IBM%20Plex%20Sans%20Devanagari)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
